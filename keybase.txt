@@ -1,0 +1,72 @@
+==================================================================
+https://keybase.io/annoyingrains
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://annoyingrains.party
+  * I am annoyingrains (https://keybase.io/annoyingrains) on keybase.
+  * I have a public key with fingerprint 6682 324E 0D96 DEFE 3F5D  2B79 A843 66E1 BD90 FFE8
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "010174b4d47dd7f88e47ac15819b1b954c20094cbbdc488a42d5ef3ac336d68fdf590a",
+      "fingerprint": "6682324e0d96defe3f5d2b79a84366e1bd90ffe8",
+      "host": "keybase.io",
+      "key_id": "a84366e1bd90ffe8",
+      "kid": "010174b4d47dd7f88e47ac15819b1b954c20094cbbdc488a42d5ef3ac336d68fdf590a",
+      "uid": "2b1a7b7c2ed5b0c91fc8a8e7eff8c919",
+      "username": "annoyingrains"
+    },
+    "service": {
+      "hostname": "annoyingrains.party",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1670367515,
+  "expire_in": 157680000,
+  "prev": "e9a04af922f3770e95863dbdf770d411f6da2ec932810fe329d4101b42ee103c",
+  "seqno": 5,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owGtkm1QVFUYxxdkBR1RRxJLheS2MkwQ3veXxbAhGGVgGTEzZcDlvpwL18W7l927
+sERgUcJgqcTAukREAlNbTUmWYUWrYw3W+ALFjA04AzipIJTiyIvTBnQvk9/82Ply
+5nnO//97nuecUxe+xBAW5HtRvPFD3cJY0KU7nIE//sumcoizC2WQuRyygcUNFAnA
+qVptkgCZIRiBEQrncAGnBIESaRrgFMsjBI0wHMIxBM6jMMzgPMcJPE7TLI4KBBAx
+lscwUiBpURAJBmahBEiU5ALgUBySrGpYkqRRDMUBLDCkAESAiYSAchTD0jhGkgDh
+BAYWRUBrxkK7U3dozXGsEyRKdi2nBdbF9h6j/5/7di3iUA5hKY7iUSAQHMwziMjT
+LA0oIIq0FjG60AkcMnsQ6F3Jsr1Mm9fBSrITqkiAtKMSiQf67erjPE6WqLAOtUzj
+KA67auftRZqgUFUVp1kHqGWK7igFnPU/lpWTZEEza44S4HBKdhkyI5qSVyUdjpAU
+jJEUgRAJEHArkgNYJV1BUCQNa0uvI4ASjQkYFsZZkUFREaMoGDAETWICJ4haIOAI
+IpICiwKewVAagbWXQhktCyMcjgKAwBgP6eMVy3bIrJVS2QIN6ZQKZFZ1OQBUsbw2
+GAsxBIUZoiJjQsQqNCvcMzS/LS++7NE/NAbrn9CwfNnqR5nOhlXzSZZA5sDc9Ell
+ZWF1l7Gh9jd09sJoyhrfnugDk25Tx64vT/aaPUVzPURT473rEwzmyjkbdzR0yY7V
+LU++ul6xVtYMn16ZV+B/J3np5cBPO+/k9d/qm3OKz79Q3LesR8n4yxax/9hn8ZdB
+M5Phrlgx0tF08ef0c6eCZDLf+fulDMvM6TPujxtd6Viz5Ylng0t9c9524zjKnWfU
+qSpTt/F+8XR7Lcbu2z97e7RKEZPa+rPgVI/xMLiw1dJAnrh/o2aVZaJDSXTXRc6E
+rstOy6y4N3Bt8+tT3vd7JoSPvm5reQmeM3TucyMbTvkdNTlXkD1vtn549eGsd1tz
+a3L9fFtT5cJ8Hfxp665Y//nruZvL123Z+PZMfPV39qkt7XdnC/qij0+OH7MdHNrh
+CQxsJBZ+vdkY0X/mZXwMfzf67MOJ2LX1sR9EHer6piYm91yxVUZtw9dscUjkg0Kx
++o/d5V3la1tLMMzU4Pnqzx+nhg4kju1Oi2n5O3D1i7uBHOvg52lHJgc9WzsvXsnq
+9i197q3t3qLp2dThB93GEZc/kGsK/yS5yj+5t76lubJn/PYmavCQzZ1qsXM7u3wU
+aorDIjK/z8dGU/J7j1qOZA+sb2p96r2UN9JTRztDwm/eGmr6NjvWF7d9w9Oj8iv+
+f/jGxhHvM6FiC3e411sVNRmGJ71m2rvC5Slt+Bc=
+=flDu
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/annoyingrains
+
+==================================================================
